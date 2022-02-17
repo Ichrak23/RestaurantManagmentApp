@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "email": "anil@test",
+      "neme": "Anil Sidhu",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "email": "ichrak@test.com",
+      "password": "ichrak",
+      "name": "ichrak",
+      "id": 2
+    },
+    {
+      "email": "ichrak@test.com",
+      "password": "ichrak",
+      "name": "ichrak",
+      "id": 3
+    },
+    {
+      "email": "bruce @gmail.com",
+      "password": "bruce123",
+      "name": "bruce",
+      "id": 4
+    },
+    {
+      "email": "bruce @gmail.com",
+      "password": "bruce123",
+      "name": "bruce",
+      "id": 5
+    },
+    {
+      "email": "mohamed@gmail.com",
+      "password": "mohamed01",
+      "name": "mohamed",
+      "id": 6
+    },
+    {
+      "email": "john@test.com",
+      "password": "johnjohn",
+      "name": "John",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 9
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "name": "abc",
+      "id": 10
+    },
+    {
+      "email": "mohammed@gmail.com",
+      "password": "mohammed",
+      "name": "mohammed",
+      "id": 11
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 1111,
+      "address": "Noida sector 50"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 3333,
+      "address": "Gurgaon sector 20"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 4444,
+      "address": "Delgi CP"
+    },
+    {
+      "name": "Starbuks",
+      "address": "dellhi saket",
+      "contact": "12345",
+      "id": 4
+    },
+    {
+      "name": "burger king",
+      "address": "south africa ",
+      "contact": "658974",
+      "id": 5
+    }
+  ]
+}
